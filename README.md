@@ -33,7 +33,7 @@ Se você deseja apenas jogar sem instalar o ambiente de desenvolvimento:
 
 ```bash
 chmod +x jogo_adivinhar
-./nome_do_binario
+./jogo_adivinhar
 ```
 
 ### 2. Via Cargo (Código Fonte)
