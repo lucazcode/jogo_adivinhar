@@ -32,7 +32,7 @@ Se você deseja apenas jogar sem instalar o ambiente de desenvolvimento:
    * Obs: No Linux/macOS, talvez seja necessário permitir a execução do arquivo:
 
 ```bash
-chmod +x jogo_adivinhacao
+chmod +x jogo_adivinhar
 ./nome_do_binario
 ```
 
@@ -41,12 +41,11 @@ Se você possui o Rust instalado, pode compilar e rodar diretamente do código-f
 
 ```bash
 # Clone o repositório
-git clone [https://github.com/lucazcode/jogo_adivinhar](https://github.com/lucazcode/jogo_adivinhar.git)
+git clone https://github.com/lucazcode/jogo_adivinhar.git
 cd jogo_adivinhar
 
 # Compile e rode em modo otimizado
-cargo run --release
-```
+cargo run --release```
 
 ## Requisitos
 Para garantir o funcionamento correto do projeto, certifique-se de atender aos seguintes requisitos:
