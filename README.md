@@ -45,7 +45,8 @@ git clone https://github.com/lucazcode/jogo_adivinhar.git
 cd jogo_adivinhar
 
 # Compile e rode em modo otimizado
-cargo run --release```
+cargo run --release
+```
 
 ## Requisitos
 Para garantir o funcionamento correto do projeto, certifique-se de atender aos seguintes requisitos:
