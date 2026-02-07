@@ -29,7 +29,7 @@ Se você deseja apenas jogar sem instalar o ambiente de desenvolvimento:
 1. Vá até a seção de [Releases](https://github.com/lucazcode/jogo_adivinhar/releases).
 2. Baixe o executável mais recente disponibilizado.
 3. Inicie o jogo através do executável.
-   * Obs: No Linux/macOS, talvez seja necessário permitir a execução do arquivo:
+   * Obs: No Linux, talvez seja necessário permitir a execução do arquivo:
 
 ```bash
 chmod +x jogo_adivinhar
@@ -57,7 +57,6 @@ Para garantir o funcionamento correto do projeto, certifique-se de atender aos s
 * **Cargo**: Gerenciador de pacotes padrão do Rust.
 
 ### Execução
-* **Sistemas Operacionais Compatíveis**: 
+* **Sistemas Operacionais Recomendados**: 
   * **Linux**
   * **Windows**
-  * **macOS**
